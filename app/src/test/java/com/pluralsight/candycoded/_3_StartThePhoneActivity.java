@@ -132,9 +132,8 @@ public class _3_StartThePhoneActivity {
                 new XMLTestHelpers.ViewContainer("@+id/text_view_phone", "createPhoneIntent", "true");
         boolean address_set_correct =  viewContainers.contains(addressView);
 
-        Assert.assertTrue("In activity_info.xml, the TextView text_view_phone does not have " +
-                        "the clickable and onClick properties set.",
-                address_set_correct);
+        Assert.assertFalse("In activity_info.xml, the TextView text_view_phone does not have " +
+                "the clickable and onClick properties set.", address_set_correct);
     }
 
     public ArrayList<XMLTestHelpers.ViewContainer> readLayoutXML(String layoutFileName) {
