@@ -30,9 +30,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Task 3 done">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Task 4 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +74,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="R58M85V4SAV" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-14T17:42:47.379Z" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
@@ -83,7 +83,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
   </component>
-  <component name="RunManager" selected="Android JUnit._4_ShareACandyWithAnIntent">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="Project_Phase.app" />
       <extension name="coverage">
@@ -229,8 +229,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android JUnit._4_ShareACandyWithAnIntent" />
         <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
+        <item itemvalue="Android JUnit._4_ShareACandyWithAnIntent" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in Project_Phase.app" />
@@ -276,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602687292958</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task 4 done">
+      <created>1602690433645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602690433645</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,7 +301,8 @@
     <MESSAGE value="Task 1 done" />
     <MESSAGE value="Task 2 done" />
     <MESSAGE value="Task 3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 done" />
+    <MESSAGE value="Task 4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 4 done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="568" y="232" key="#Notifications" timestamp="1602632961032">
@@ -313,46 +321,46 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1602687559600" />
-    <state x="92" y="92" width="1182" height="554" key="AVDManager" timestamp="1602633606985">
+    <state x="92" y="92" width="1182" height="554" key="AVDManager" timestamp="1602699024823">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="92" y="92" width="1182" height="554" key="AVDManager/0.0.1366.738@0.0.1366.738" timestamp="1602633606985" />
+    <state x="92" y="92" width="1182" height="554" key="AVDManager/0.0.1366.738@0.0.1366.738" timestamp="1602699024823" />
     <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1602682830195">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602682830195" />
-    <state x="129" y="56" key="DiffContextDialog" timestamp="1602687399142">
+    <state x="129" y="56" key="DiffContextDialog" timestamp="1602690489573">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1602687399142" />
+    <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1602690489573" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1602635217648">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602635217648" />
-    <state width="1322" height="237" key="GridCell.Tab.0.bottom" timestamp="1602687508465">
+    <state width="1322" height="237" key="GridCell.Tab.0.bottom" timestamp="1602698329748">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="237" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602687508465" />
-    <state width="1322" height="237" key="GridCell.Tab.0.center" timestamp="1602687508465">
+    <state width="1322" height="237" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602698329748" />
+    <state width="1322" height="237" key="GridCell.Tab.0.center" timestamp="1602698329748">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="237" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602687508465" />
-    <state width="1322" height="237" key="GridCell.Tab.0.left" timestamp="1602687508465">
+    <state width="1322" height="237" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602698329748" />
+    <state width="1322" height="237" key="GridCell.Tab.0.left" timestamp="1602698329748">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="237" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602687508465" />
-    <state width="1322" height="237" key="GridCell.Tab.0.right" timestamp="1602687508465">
+    <state width="1322" height="237" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602698329748" />
+    <state width="1322" height="237" key="GridCell.Tab.0.right" timestamp="1602698329748">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="237" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602687508465" />
+    <state width="1322" height="237" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602698329748" />
     <state x="184" y="14" key="SettingsEditor" timestamp="1602634033574">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602634033574" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1602687403770">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1602690493105">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602687403770" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602690493105" />
     <state x="442" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602678513488">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
